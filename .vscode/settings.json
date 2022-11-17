@@ -1,0 +1,3 @@
+{
+  "solidity.packageDefaultDependenciesDirectory": "./hh-Contracts/node_modules"
+}
